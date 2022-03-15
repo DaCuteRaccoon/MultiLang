@@ -1,7 +1,7 @@
 { pkgs }: {
     deps = [
-				pkgs.bashInteractive
-        pkgs.cowsay
+			pkgs.bashInteractive
+			pkgs.cowsay
 			pkgs.zig
 			pkgs.nodejs
 			pkgs.nodePackages.pnpm
